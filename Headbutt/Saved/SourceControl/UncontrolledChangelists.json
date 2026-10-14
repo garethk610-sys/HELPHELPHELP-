@@ -24,7 +24,16 @@
 				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/bp_boulder.uasset",
 				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/bp_balloon.uasset",
 				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/bp_killbox.uasset",
-				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/bp_player_character.uasset"
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/bp_player_character.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/IA_Left.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/XRFramework/Levels/L_XRTemplate_Lighting_BuiltData.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/XRFramework/Levels/L_XRTemplate_Lighting.umap",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/IA_Right.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/Player_Character/bp_player_character.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/Player_Character/IA_Left.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/Player_Character/IA_Right.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/Player_Character/IMC_Player_Character.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/Player_Character/BP_Player_Pawn.uasset"
 			]
 		}
 	]
