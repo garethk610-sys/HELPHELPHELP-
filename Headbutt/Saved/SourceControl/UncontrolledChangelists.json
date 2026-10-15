@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ryan/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/XRFramework/Blueprints/BP_XRPawn.uasset",
+				"C:/Users/Ryan/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/L_headbutt_stage.umap",
+				"C:/Users/Ryan/OneDrive/Documents/GitHub/HELPHELPHELP-/Headbutt/Content/Headbutt/Player_Character/bp_player_character.uasset",
 				"C:/Users/emmet/Documents/HELPHELPHELP-/Headbutt/Content/Headbutt/UI/L_XRTemplate1.umap",
 				"C:/Users/emmet/Documents/HELPHELPHELP-/Headbutt/Content/Headbutt/UI/ui_mainmenu.umap",
 				"C:/Users/emmet/Documents/HELPHELPHELP-/Headbutt/Content/XRFramework/Levels/L_XRTemplate1.umap",
